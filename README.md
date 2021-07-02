@@ -1,4 +1,4 @@
-[what the hell](https://vernon2002.github.io/robofriends/)
+[Click here for result](https://vernon2002.github.io/robofriends/)
 
 # Getting Started with Create React App
 
